@@ -1,6 +1,6 @@
 # CAmazon- E-Commerce App
 
-This project is clone of Amazon.
+Amazon Clone
 
 ## Demo
 
